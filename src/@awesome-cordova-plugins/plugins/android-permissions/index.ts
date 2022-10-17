@@ -118,6 +118,7 @@ export class AndroidPermissions extends AwesomeCordovaNativePlugin {
     MANAGE_ACCOUNTS: 'android.permission.MANAGE_ACCOUNTS',
     MANAGE_APP_TOKENS: 'android.permission.MANAGE_APP_TOKENS',
     MANAGE_DOCUMENTS: 'android.permission.MANAGE_DOCUMENTS',
+    MANAGE_EXTERNAL_STORAGE: 'android.permission.MANAGE_EXTERNAL_STORAGE',
     MASTER_CLEAR: 'android.permission.MASTER_CLEAR',
     MEDIA_CONTENT_CONTROL: 'android.permission.MEDIA_CONTENT_CONTROL',
     MODIFY_AUDIO_SETTINGS: 'android.permission.MODIFY_AUDIO_SETTINGS',
